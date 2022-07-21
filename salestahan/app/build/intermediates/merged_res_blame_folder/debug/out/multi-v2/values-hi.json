@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi\\values-hi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ServiceUnit\\.gradle\\caches\\transforms-3\\9d7cc90668b9ce25f2089fd21b7be3e7\\transformed\\zxing-android-embedded-3.4.0\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,163,329",
+                        "endColumns": "56,50,165,102",
+                        "endOffsets": "107,158,324,427"
+                    }
+                }
+            ]
+        }
+    ]
+}

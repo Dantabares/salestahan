@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_overflow.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_main.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_refresh_logo_low.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\refresh_logo_low.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_blue.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\btn_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_cart.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_listview_stock.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\listview_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_addproductlot.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_addproductlot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_payment.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\dialog_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_splashscreen.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_saledetail.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_saledetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\raw_products.csv.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\raw\\products.csv"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_sale.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_sale.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_overflow.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable-hdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_productdetail_detail.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_productdetail_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_listview_lineitem.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\listview_lineitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_productdetail_stock.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_productdetail_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_report.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_green.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\btn_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_saleedit.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\dialog_saleedit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_inventory.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_paymentsuccession.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\dialog_paymentsuccession.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_addproduct.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_addproduct.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_overflow.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_refresh_logo.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\refresh_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_productdetail_main.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\layout_productdetail_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_yellow.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\btn_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_listview_inventory.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\listview_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\layout_listview_report.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\layout\\listview_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_shopping_cart_512.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\ic_baseline_shopping_cart_512.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_purple.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\btn_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\menu_detail_menu.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_red.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_white.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\btn_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit.png.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_black.xml.flat",
+        "source": "C:\\Users\\ServiceUnit\\Desktop\\POS\\pos-master\\app\\src\\main\\res\\drawable\\btn_black.xml"
+    }
+]

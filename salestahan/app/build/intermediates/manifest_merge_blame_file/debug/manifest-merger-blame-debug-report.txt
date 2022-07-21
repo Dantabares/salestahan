@@ -1,0 +1,172 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.refresh.pos"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:11:5-47
+8        android:minSdkVersion="21"
+8-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:11:5-47
+9        android:targetSdkVersion="32" />
+9-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:11:15-44
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:7:5-64
+11-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:7:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:8:5-59
+13-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:8:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:9:5-69
+14-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:9:19-67
+15    <uses-feature
+15-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+16        android:name="android.hardware.camera.front"
+16-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+17        android:required="false" />
+17-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+18    <uses-feature
+18-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+19        android:name="android.hardware.camera.flash"
+19-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+20        android:required="false" />
+20-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+21    <uses-feature
+21-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+22        android:name="android.hardware.screen.landscape"
+22-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+23        android:required="false" />
+23-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+24    <uses-feature
+24-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+25        android:name="android.hardware.wifi"
+25-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+26        android:required="false" />
+26-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+27
+28    <application
+28-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:13:5-67:19
+29        android:allowBackup="true"
+29-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:14:9-35
+30        android:debuggable="true"
+31        android:icon="@drawable/logo"
+31-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:16:9-38
+32        android:label="@string/app_name"
+32-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:15:9-41
+33        android:theme="@style/AppTheme" >
+33-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:17:9-40
+34        <activity
+34-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:18:9-22:20
+35            android:name="com.ucu.pos.ui.MainActivity"
+35-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:19:13-55
+36            android:label="@string/app_name"
+36-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:20:13-45
+37            android:screenOrientation="portrait" >
+37-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:21:13-49
+38        </activity>
+39        <activity
+39-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:23:9-33:20
+40            android:name="com.ucu.pos.ui.SplashScreenActivity"
+40-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:24:13-63
+41            android:exported="true"
+41-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:26:13-36
+42            android:launchMode="singleTop"
+42-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:25:13-43
+43            android:screenOrientation="portrait" >
+43-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:27:13-49
+44            <intent-filter>
+44-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:28:13-32:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:29:17-69
+45-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:29:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:31:17-77
+47-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:31:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:34:9-36:52
+51            android:name="com.ucu.pos.ui.HomeActivity"
+51-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:35:13-55
+52            android:screenOrientation="portrait" />
+52-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:36:13-49
+53        <activity
+53-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:37:9-39:52
+54            android:name="com.ucu.pos.ui.InventoryActivity"
+54-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:38:13-60
+55            android:screenOrientation="portrait" />
+55-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:39:13-49
+56        <activity
+56-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:40:9-42:52
+57            android:name="com.ucu.pos.ui.AddProductActivity"
+57-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:41:13-61
+58            android:screenOrientation="portrait" />
+58-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:42:13-49
+59        <activity
+59-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:43:9-45:52
+60            android:name="com.ucu.pos.ui.inventory.AddProductLotActivity"
+60-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:44:13-74
+61            android:screenOrientation="portrait" />
+61-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:45:13-49
+62        <activity
+62-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:46:9-48:52
+63            android:name="com.ucu.pos.ui.inventory.ProductDetailActivity"
+63-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:47:13-74
+64            android:screenOrientation="portrait" />
+64-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:48:13-49
+65        <activity
+65-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:49:9-51:52
+66            android:name="com.ucu.pos.ui.SaleActivity"
+66-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:50:13-55
+67            android:screenOrientation="portrait" />
+67-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:51:13-49
+68        <activity
+68-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:52:9-54:52
+69            android:name="com.ucu.pos.ui.StockActivity"
+69-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:53:13-56
+70            android:screenOrientation="portrait" />
+70-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:54:13-49
+71        <activity
+71-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:55:9-57:52
+72            android:name="com.ucu.pos.ui.SaleProductCatalog"
+72-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:56:13-61
+73            android:screenOrientation="portrait" />
+73-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:57:13-49
+74        <activity
+74-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:58:9-60:52
+75            android:name="com.ucu.pos.ui.sale.SaleLedgerActivity"
+75-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:59:13-66
+76            android:screenOrientation="portrait" />
+76-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:60:13-49
+77        <activity
+77-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:61:9-63:52
+78            android:name="org.achartengine.GraphicalActivity"
+78-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:62:13-62
+79            android:screenOrientation="portrait" />
+79-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:63:13-49
+80        <activity
+80-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:64:9-66:52
+81            android:name="com.ucu.pos.ui.sale.SaleDetailActivity"
+81-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:65:13-66
+82            android:screenOrientation="portrait" />
+82-->C:\Users\ServiceUnit\Desktop\POS\pos-master\app\src\main\AndroidManifest.xml:66:13-49
+83        <activity
+83-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+84            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+84-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
+85            android:clearTaskOnLaunch="true"
+85-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+86            android:screenOrientation="sensorLandscape"
+86-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+87            android:stateNotNeeded="true"
+87-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+88            android:theme="@style/zxing_CaptureTheme"
+88-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+89            android:windowSoftInputMode="stateAlwaysHidden" />
+89-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\ServiceUnit\.gradle\caches\transforms-3\9d7cc90668b9ce25f2089fd21b7be3e7\transformed\zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+90    </application>
+91
+92</manifest>

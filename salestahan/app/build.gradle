@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 32
+
+    defaultConfig {
+        applicationId "com.refresh.pos"
+        minSdkVersion 21
+        targetSdkVersion 32
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:gridlayout-v7:18.0.0'
+    implementation 'com.android.support:support-v4:18.0.0'
+    implementation files('libs/achartengine-1.1.0.jar')
+   //implementation files('libs/android-integration-2.0-supportv4.jar')
+
+   implementation 'com.journeyapps:zxing-android-embedded:3.4.0'
+
+}

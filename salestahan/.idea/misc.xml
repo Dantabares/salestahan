@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.218" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/drawable/ic_baseline_shopping_cart_512.xml" value="0.218" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/dialog_payment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/layout_addproduct.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/layout_addproductlot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/layout_inventory.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/layout_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/layout_productdetail_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/layout_productdetail_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/layout_productdetail_stock.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/layout_splashscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/listview_inventory.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/listview_lineitem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/listview_report.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ServiceUnit/Desktop/POS/pos-master/app/src/main/res/layout/listview_stock.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

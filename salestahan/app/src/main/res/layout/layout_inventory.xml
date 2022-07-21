@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:gravity="center|bottom"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+
+    <!--TODO: uncomment here, visibility gone-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/scanButton"
+            style="@style/ButtonText"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/btn_blue"
+            android:text="@string/scan" />
+
+        <EditText
+            android:id="@+id/searchBox"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:hint="Search Name/Barcode" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/productListView"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_weight="1" >
+    </ListView>
+
+    <LinearLayout
+        android:visibility="visible"
+        android:layout_marginBottom="200dp"
+        android:id="@+id/linearNoProduct"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:src="@drawable/ic_baseline_shopping_cart_512"
+            android:layout_width="150dp"
+            android:layout_height="150dp"/>
+
+        <TextView
+            android:text="No Product Here"
+            android:textSize="13sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/addProductButton"
+        style="@style/ButtonText"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_green"
+        android:ems="10"
+        android:text="@string/add_new_product" />
+
+</LinearLayout>
